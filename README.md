@@ -1,5 +1,6 @@
 # artillery-engine-playwright
 
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=CodersDba_artillery-engine-playwright&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=CodersDba_artillery-engine-playwright) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=CodersDba_artillery-engine-playwright&metric=bugs)](https://sonarcloud.io/summary/new_code?id=CodersDba_artillery-engine-playwright) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=CodersDba_artillery-engine-playwright&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=CodersDba_artillery-engine-playwright)
 <p align="center">
   <img src="./header.png" alt="Full browser load testing with Artillery + Playwright" width="1012">
 </p>
